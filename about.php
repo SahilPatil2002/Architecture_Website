@@ -216,7 +216,7 @@
 
             <!-- section begin -->
             <section id="view-all-projects" class="call-to-action bg-color dark text-center" data-speed="5" data-type="background" aria-label="view-all-projects">
-                <a href="contact.php" class="btn btn-line black btn-big">Talk With Us</a>
+                <a href="contact.php" class="btn btn-line white bg-white btn-big">Talk With Us</a>
             </section>
             <!-- logo carousel section close -->
 

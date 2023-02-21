@@ -472,7 +472,7 @@
 
 
 
-			<section id="section-welcome-14" class="no-top no-bottom mt70 sm-mt0" style="background-size: cover;">
+			<section id="section-welcome-14" class="no-top no-bottom mt30 mb30 sm-mt0" style="background-size: cover;">
 				
 				<div class="container-fluid" style="background-size: cover;">
 					
