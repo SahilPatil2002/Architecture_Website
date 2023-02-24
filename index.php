@@ -483,7 +483,7 @@
 							<div class="padding50" style="background-size: cover;">
 								<h3><span class="id-color">Bedroom Renovation</span></h3>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-								<a href="#" class="btn-line">View Details</a>
+								<a href="#" class="btn-line" style="color:white !important">View Details</a>
 							</div>
 						</div>
 
@@ -509,7 +509,7 @@
 							<div class="padding50" style="background-size: cover;">
 								<h3><span class="id-color">Living Room Makeover</span></h3>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-								<a href="#" class="btn-line">View Details</a>
+								<a href="#" class="btn-line" style="color:white !important">View Details</a>
 							</div>
 						</div>
 
@@ -522,7 +522,7 @@
 							<div class="padding50" style="background-size: cover;">
 								<h3><span class="id-color">Restaurant Re-design</span></h3>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-								<a href="#" class="btn-line">View Details</a>
+								<a href="#" class="btn-line" style="color:white !important">View Details</a>
 							</div>
 						</div>
 
